@@ -1,0 +1,32 @@
+
+
+.headerContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    text-align: center;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.franceNav{
+    display: flex;
+    flex-direction: column;
+}
+.icelandNav{
+    display: flex;
+    flex-direction: column;
+}
+.portugalNav{
+    display: flex;
+    flex-direction: column;
+}
+.barbadosNav{
+    display: flex;
+    flex-direction: column;
+}
