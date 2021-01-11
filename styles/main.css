@@ -1,6 +1,11 @@
 @import url("https://fonts.googleapis.com/css?family=Comfortaa|Patua+One");
+<<<<<<< HEAD
 /* @import url("./france.css"); */
 @import "./home.css"; 
+=======
+@import url("./france.css");
+@import url("./home.css");
+>>>>>>> main
 
 /*Typography
 --------------------------------------------------------------*/

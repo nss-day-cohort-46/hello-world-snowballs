@@ -1,33 +1,33 @@
-header {
+.france__header {
   display: flex;
 }
 
-header img {
+.france__header img {
   height: 50px;
   width: 100px;
 }
 
-nav a {
+.france__header nav a {
   margin: 0 10px;
 }
 
-h1 {
+.france__headline {
   text-align: center;
 }
 
-main img {
+.france__banner {
   width: 100%;
   height: auto;
 }
 
-.bottomContainer {
+.france__bottomContainer {
   display: flex;
   justify-content: space-around;
 }
 
-.bottomContainer__cities, 
-.bottomContainer__landmarks, 
-.bottomContainer__people {
+.france__bottomContainer__cities, 
+.france__bottomContainer__landmarks, 
+.france__bottomContainer__people {
   margin: 10px;
   padding: 10px;
   border: 1px solid black;
