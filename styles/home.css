@@ -43,7 +43,7 @@
     background-image: url(../images/hello\ world\ plaanet.jpg);
     background-attachment: fixed;
 }
-.index__homeNav a{
+.index__navigation a{
     text-decoration: none;
     color: white;
     font-size: 16px;
