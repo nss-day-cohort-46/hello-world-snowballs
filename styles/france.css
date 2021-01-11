@@ -1,0 +1,9 @@
+.bottomContainer {
+  display: flex;
+}
+
+.bottomContainer__cities, 
+.bottomContainer__landmarks, 
+.bottomContainer__people {
+  margin: 10px;
+}
