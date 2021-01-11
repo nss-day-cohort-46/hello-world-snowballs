@@ -30,3 +30,12 @@ nav{
     display: flex;
     flex-direction: column;
 }
+.homeNav{
+    display: flex;
+    flex-direction: column;
+}
+body{
+    background-size: cover;
+    background-image: url ('./images/hello world plaanet.jpg');
+    background-attachment: fixed;
+}
