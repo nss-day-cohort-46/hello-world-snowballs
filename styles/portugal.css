@@ -1,21 +1,26 @@
-header {
+.portugal__header {
+    display: flex;
+  }
+
+
+  .portugal__header {
     display: flex;
   }
   
-  header img {
+  .portugal__header img {
     height: 50px;
     width: 100px;
   }
   
-  nav a {
+  .portugal__header nav a {
     margin: 0 10px;
   }
   
-  h1 {
+  .portugal__headline {
     text-align: center;
   }
   
-  main img {
+  .portugal__banner {
     width: 100%;
     height: auto;
   }
