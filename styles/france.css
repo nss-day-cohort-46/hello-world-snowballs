@@ -1,14 +1,30 @@
+.france__body {
+  background-color: #f5f5dc;
+}
+
 .france__header {
   display: flex;
+  background-color: #dcdcf5;
 }
 
 .france__header img {
   height: 50px;
   width: 100px;
+  margin: 10px 10px;
+}
+
+.france__header nav {
+  padding: 20px 0;
 }
 
 .france__header nav a {
   margin: 0 10px;
+  text-decoration: none;
+  color: black;
+}
+
+.france__header nav a:hover {
+  text-decoration: underline;
 }
 
 .france__headline {
@@ -18,6 +34,7 @@
 .france__banner {
   width: 100%;
   height: auto;
+  margin: 10px 0;
 }
 
 .france__bottomContainer {
@@ -31,4 +48,31 @@
   margin: 10px;
   padding: 10px;
   border: 1px solid black;
+  border-radius: 5px;
+}
+
+.france__bottomContainer__cities:hover, 
+.france__bottomContainer__landmarks:hover, 
+.france__bottomContainer__people:hover {
+  box-shadow: 5px 5px 5px;
+  cursor: default;
+}
+
+.france__bottomContainer__cities {
+  background-color: #0055a4;
+  flex: 1 1 0;
+}
+
+.france__bottomContainer__landmarks {
+  background-color: white;
+  flex: 1 1 0;
+}
+
+.france__bottomContainer__people {
+  background-color: #ef4135;
+  flex: 1 1 0;
+}
+
+.france__footer small {
+  padding: 10px 10px;
 }

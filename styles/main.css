@@ -2,6 +2,7 @@
 @import url("./france.css");
 @import url("./home.css");
 @import url("./barbados.css");
+@import url("./iceland.css");
 @import url("./portugal.css");
 /*Typography
 --------------------------------------------------------------*/
@@ -10,7 +11,6 @@ button,
 input,
 select,
 textarea {
-	color: #404040;
 	font-family: "Comfortaa", Arial, sans-serif;
 	font-size: 14px;
 	line-height: 1.5;
