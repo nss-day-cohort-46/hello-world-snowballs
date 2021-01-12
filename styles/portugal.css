@@ -21,7 +21,7 @@
   }
   
   .portugal__banner {
-    width: 100%;
+    width: 150%;
     height: auto;
   }
   
@@ -36,4 +36,9 @@
     margin: 10px;
     padding: 10px;
     border: 1px solid black;
+  }
+
+  .portugal__flag {
+    height: 100px;
+    width: 200px;
   }
