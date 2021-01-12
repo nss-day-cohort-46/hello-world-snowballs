@@ -1,10 +1,14 @@
 .portugal__header {
     display: flex;
+   
+   
+
   }
 
 
   .portugal__header {
     display: flex;
+
   }
   
   .portugal__header img {
@@ -41,4 +45,17 @@
   .portugal__flag {
     height: 100px;
     width: 200px;
+  }
+
+  nav {
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+  }
+
+  body {
+  
+    background-color: #99ccff;
   }
