@@ -1,11 +1,11 @@
-.header {
-    display: flex;
-  }
+.iceland__header {
+  display: flex;
+}
   
-  .header img {
-    height: 50px;
-    width: 100px;
-  }
+.iceland__header img {
+  height: 50px;
+  width: 100px;
+}
   
   .header nav a {
     margin: 0 10px;
