@@ -7,29 +7,29 @@
   width: 100px;
 }
   
-.iceland__header nav a {
-  margin: 0 10px;
-}
-
-.headline {
-  text-align: center;
-}
-
-.iceland__banner {
-  width: 100%;
-  height: auto;
-}
-
-.bottomContainer {
-  display: flex;
-  justify-content: space-around;
-}
-
-.bottomContainer__cities, 
-.bottomContainer__landmarks, 
-.bottomContainer__people {
-  margin: 10px;
-  padding: 10px;
-  border: 1px solid black;
-  flex: 1 1 0;
-}
+  .header nav a {
+    margin: 0 10px;
+  
+  }
+  
+  .headline {
+    text-align: center;
+  }
+  
+  .banner {
+    width: 100%;
+    height: auto;
+  }
+  
+  .bottomContainer {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .bottomContainer__cities, 
+  .bottomContainer__landmarks, 
+  .bottomContainer__people {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+  }
