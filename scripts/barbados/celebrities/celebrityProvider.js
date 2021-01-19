@@ -12,6 +12,7 @@ const celebrityCollection =[
         name:"Rihanna",
         image:"images/rihanna-4.jpg"
     }
+   
 ]
 export const useCelebrityCollection = () =>{
 return celebrityCollection.slice()
