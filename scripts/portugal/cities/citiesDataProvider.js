@@ -20,3 +20,8 @@ const citiesCollection = [
             
 
 ]
+
+export const useCitiesCollection = () => {
+    return citiesCollection.slice()
+
+}
