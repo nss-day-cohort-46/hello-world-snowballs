@@ -11,7 +11,7 @@ const citiesCollection = [
   },
   {
     name: "Marseille",
-    population "861,635",
+    population: "861,635",
     image: "../../../images/marseille_city.jpg"
   }
 ]

@@ -1,1 +1,4 @@
-console.log("Welcome to the main module")
+import { FranceCitiesList } from "./france/cities/CitiesList.js"
+
+FranceCitiesList()
+
