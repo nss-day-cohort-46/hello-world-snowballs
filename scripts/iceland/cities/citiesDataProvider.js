@@ -7,7 +7,7 @@ const cityCollection = [
     {
         name:"Akureyri",
         population:"18,200",
-        image:"../../../images/Alkueyri.jpeg"
+        image:"../../../images/Akureyri.jpeg"
       },
       {
         name:"Kópavogur",

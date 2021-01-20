@@ -26,8 +26,8 @@
     justify-content: space-around;
   }
   
-  .bottomContainer__cities, 
-  .bottomContainer__landmarks, 
+  .ice__bottomContainer__cities, 
+  .ice__bottomContainer__landmarks, 
   .bottomContainer__people {
     margin: 10px;
     padding: 10px;
