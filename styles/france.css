@@ -63,14 +63,26 @@
   flex: 1 1 0;
 }
 
+.france__city__card {
+  margin: 10px 0;
+}
+
 .france__bottomContainer__landmarks {
   background-color: white;
   flex: 1 1 0;
 }
 
+.france__landmark__card {
+  margin: 10px 0;
+}
+
 .france__bottomContainer__people {
   background-color: #ef4135;
   flex: 1 1 0;
+}
+
+.france__celeb__card {
+  margin: 10px 0;
 }
 
 .france__footer small {
