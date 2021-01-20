@@ -8,7 +8,7 @@ const celebritiesCollection = [
     {
         name: "Name: Jose Mourinho",
         
-        image: "images/portugal/JoseMourinho.jpgg"
+        image: "images/portugal/JoseMourinho.jpg"
      
         },
     {

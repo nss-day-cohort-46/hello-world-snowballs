@@ -1,12 +1,12 @@
 import { Landmark } from "./landmarks.js"
-import {uselandmarksCollection } from "./landmarksDataProvider.js"
+import {useLandmarksCollection } from "./landmarksDataProvider.js"
 
 export const PortugalLandmarksList = () => {
   // debugger
   // Get a reference to the `<article class="content">` element
   const contentElement = document.querySelector(".portugal__bottomContainer__landmarks")
   
-  const landmarks = uselandmarksCollection()
+  const landmarks = useLandmarksCollection()
   
 
 
