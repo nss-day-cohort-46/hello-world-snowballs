@@ -1,4 +1,4 @@
-import { Landmarks } from "./landmarks.js"
+import { Landmark } from "./landmarks.js"
 import {uselandmarksCollection } from "./landmarksDataProvider.js"
 
 export const PortugalLandmarksList = () => {
@@ -12,7 +12,7 @@ export const PortugalLandmarksList = () => {
 
   let landmarksHTMLRepresentation = "<h3>Famous landmarks</h3>"
   for (const landmark of landmarks) {
-      landmarksHTMLRepresentation += Landmarks(landmark)
+      landmarksHTMLRepresentation += Landmark(landmark)
   }
 
   contentElement.innerHTML += `

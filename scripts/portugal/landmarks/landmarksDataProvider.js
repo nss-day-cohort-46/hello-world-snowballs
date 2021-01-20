@@ -18,7 +18,7 @@ const landmarksCollection = [
 
 ]
 
-export const uselandmarksCollection = () => {
+export const useLandmarksCollection = () => {
     return landmarksCollection.slice()
 
 }
