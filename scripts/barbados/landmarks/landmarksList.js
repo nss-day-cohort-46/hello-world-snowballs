@@ -18,7 +18,7 @@ for (const land of famousLandmarks ) {
 
     // writes the loaded variable and  the HTML <h3> into the targeted HTML id
 contentElement.innerHTML += `
-<h3 style=color:blue;font-size:20px >Cities</h3>
+<h3 style=color:blue;font-size:20px >Landmarks</h3>
 ${barbadosLandmarksHTML}
 `
 }
