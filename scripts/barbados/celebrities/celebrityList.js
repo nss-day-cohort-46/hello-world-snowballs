@@ -22,7 +22,7 @@ for (const peeps of famousPeeps ) {
 
     // writes the loaded variable and  the HTML <h3> into the targeted HTML
 contentElement.innerHTML += `
-<h3 style=color:blue;font-size:20px >Cities</h3>
+<h3 style=color:blue;font-size:20px >Celebrities</h3>
 ${barbadosCelebrityHTML}
 `
 }
